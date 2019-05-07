@@ -28,8 +28,7 @@ public class BtPhoneManager implements ServiceConnection, IBinder.DeathRecipient
     /**
      * 构造函数
      */
-    private BtPhoneManager() {
-    }
+    private BtPhoneManager() {}
 
 
     /**
