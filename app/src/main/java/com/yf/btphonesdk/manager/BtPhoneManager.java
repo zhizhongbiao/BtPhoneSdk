@@ -30,7 +30,6 @@ public class BtPhoneManager implements ServiceConnection, IBinder.DeathRecipient
      */
     private BtPhoneManager() {}
 
-
     /**
      * 初始化函数必须调用，并需要放在应用程序启动初始化调用；
      *
